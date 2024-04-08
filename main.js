@@ -6,12 +6,12 @@ import { getAuth, GoogleAuthProvider, signInWithPopup } from "https://www.gstati
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCsrmSl9g5WYn2vLCwQfUf0YpivYXzeTtk",
-  authDomain: "login-818f2.firebaseapp.com",
-  projectId: "login-818f2",
-  storageBucket: "login-818f2.appspot.com",
-  messagingSenderId: "992088012491",
-  appId: "1:992088012491:web:6598b72d19ea8c75480d4e"
+  apiKey: "poner tus datos",
+  authDomain: "login-XXXXX.firebaseapp.com",
+  projectId: "login-XXXXX",
+  storageBucket: "loginXXXXX.appspot.com",
+  messagingSenderId: "XXXXXXXX",
+  appId: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 };
 
 // Initialize Firebase
